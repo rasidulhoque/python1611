@@ -47,13 +47,3 @@ flag.left(90)
 flag.forward(200)
 flag.end_fill()
 turtle.done()
-    
-    
-    
-
-
-    
-    
-    
-    
-    
