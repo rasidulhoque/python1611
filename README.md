@@ -1,4 +1,4 @@
-"Any fool can write code that a computer can understand,good programmers write codes that human understood"
+"Any fool can write code that a computer can understand, good programmers write codes that human understood"
                                                                                                     ~MARTIN FOWLER
  
  HELLO EVERYONE!
